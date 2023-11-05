@@ -1,0 +1,57 @@
+VR Quality Assurance Testing
+
+Objective: Explore quality assurance (QA) testing for VR applications.
+
+Instructions:
+
+Background:
+Quality assurance (QA) testing is a crucial step in the development of virtual reality (VR) applications. It ensures that the VR experience is free from issues, bugs, and glitches that could disrupt user immersion and satisfaction. In this assignment, you will provide students with a VR application and a list of potential issues or bugs. Their task will be to conduct comprehensive QA testing to identify, document, and report these issues. Students should also include steps to reproduce the issues and suggest fixes where applicable. Additionally, they will prioritize issues based on severity and their impact on the user experience. This assignment will help students gain practical experience in VR QA testing and bug tracking.
+
+Task:
+
+VR Application Assignment: Assign students a specific VR application or provide them with a provided VR project. Ensure that the VR application contains potential issues or bugs that need to be identified and addressed through QA testing. The project should align with the course's objectives.
+
+Issue List: Provide students with a list of potential issues or bugs that may exist within the VR application. These issues could include graphical glitches, performance problems, user interface errors, or interaction issues. Ensure that the issues vary in severity.
+
+QA Testing: Instruct students to perform comprehensive QA testing of the VR application. They should thoroughly explore the application, interact with different elements, and playtest any interactive scenarios. The goal is to identify and document as many issues as possible.
+
+Issue Reporting: Task students with documenting their findings in a structured manner. Each reported issue should include the following information:
+
+a. Issue Description: Provide a clear and concise description of the issue or bug encountered.
+
+b. Steps to Reproduce: Detail the steps taken to reproduce the issue, allowing others to recreate the problem.
+
+c. Expected Behavior: Describe what the expected behavior should be, contrasting it with the observed issue.
+
+d. Severity: Assign a severity level (e.g., critical, major, minor) to each issue based on its impact on the user experience.
+
+e. Suggested Fix: If applicable and feasible, suggest a fix or improvement for the issue.
+
+Issue Prioritization: Instruct students to prioritize the reported issues based on their severity and impact on the user experience. Consider factors such as the likelihood of occurrence and the potential for user frustration.
+
+Documentation: Encourage students to create a comprehensive documentation file that includes the following information:
+
+a. VR Application Description: Describe the assigned VR application and its key features.
+
+b. Issue List: Include the list of potential issues provided to students for testing.
+
+c. QA Testing Report: Present the findings of the QA testing, including descriptions, steps to reproduce, expected behavior, severity, and suggested fixes for each issue.
+
+Presentation: Prepare a brief presentation or report showcasing the VR application, the QA testing process, and the identified issues. Discuss the prioritization of issues and their potential impact on user experience.
+
+Submission: Submit your documentation, presentation materials, and VR project files (if applicable) electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your VR Quality Assurance Testing assignment will be evaluated based on the following criteria:
+
+VR Application Assignment: The appropriateness of the assigned VR application for QA testing and its alignment with the course's objectives.
+
+QA Testing: The thoroughness and effectiveness of the QA testing process, including the identification and documentation of issues.
+
+Issue Reporting: The completeness and clarity of issue reports, including descriptions, steps to reproduce, expected behavior, severity, and suggested fixes.
+
+Issue Prioritization: The ability to prioritize issues based on severity and their potential impact on user experience.
+
+Documentation: The completeness and clarity of your documentation, including VR application description, issue list, and QA testing report.
+
+Presentation: The effectiveness of your presentation or report in conveying the QA testing results, issue prioritization, and potential user experience improvements.

@@ -1,0 +1,55 @@
+Mobile VR Interaction Design
+
+Objective: Explore user interaction design for mobile VR applications.
+
+Instructions:
+
+Background:
+Effective user interaction design is crucial for creating immersive and user-friendly mobile VR applications. In this assignment, students will focus on refining the user interaction experience in a mobile VR application. They can choose to work with a mobile VR application they've previously developed or use a provided sample project. The goal is to design and implement intuitive, comfortable, and user-friendly interactions using gaze-based input or controllers. Additionally, students will conduct user testing to gather feedback on their interaction design, providing insights for improvement.
+
+Task:
+
+Mobile VR Application Selection: Students can choose to work with a mobile VR application they've previously developed or use a provided sample project. If they select their own project, it should be appropriate for mobile VR and aligned with the course objectives.
+
+Interaction Design: Task students with designing and implementing user interactions for the selected mobile VR application. They should consider the following aspects:
+
+a. Gaze-Based Input: Design and implement gaze-based interactions, where users interact with objects or UI elements by looking at them. Ensure that the interactions are intuitive and responsive.
+
+b. Controller Input (Optional): If the mobile VR platform supports controllers (e.g., Oculus Quest controllers), students can choose to integrate controller-based interactions. In this case, they should design and implement interactions that are compatible with the available controllers.
+
+Comfort and Usability: Instruct students to pay special attention to comfort and usability factors unique to mobile VR. They should consider aspects such as motion sickness, user fatigue, and the ergonomics of mobile VR headsets. Encourage them to make design choices that enhance user comfort.
+
+User Testing: Encourage students to conduct user testing sessions with participants to gather feedback on their interaction design. Participants should use the mobile VR application, and students should observe their interactions and gather feedback on usability, comfort, and overall experience.
+
+Feedback Analysis: After conducting user testing, instruct students to analyze the feedback collected. They should identify strengths and weaknesses in their interaction design and consider potential improvements based on user feedback.
+
+Iterative Design: Encourage students to iterate on their interaction design based on the feedback received. They should refine their interactions to address any usability issues and enhance the overall user experience.
+
+Documentation: Ask students to create documentation that includes the following:
+
+a. Interaction Design Description: Describe the design of the interactions implemented in the mobile VR application, including gaze-based or controller-based interactions.
+
+b. User Testing Summary: Summarize the results of user testing sessions, including feedback received and observations made during testing.
+
+c. Iterative Design: Explain the changes and improvements made to the interaction design based on user feedback.
+
+Presentation: Have students prepare a presentation or report showcasing their mobile VR application's interaction design, user testing process, and iterative design improvements.
+
+Submission: Students should submit their documentation, presentation materials, and the updated mobile VR application project files electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your Mobile VR Interaction Design assignment will be evaluated based on the following criteria:
+
+Interaction Design: The effectiveness and intuitiveness of the gaze-based or controller-based interactions implemented in the mobile VR application.
+
+Comfort and Usability: Consideration of comfort and usability factors unique to mobile VR, including addressing motion sickness and user fatigue.
+
+User Testing: The quality of the user testing process, including the recruitment of participants, the collection of feedback, and the ability to identify usability issues.
+
+Feedback Analysis: The depth of analysis in reviewing user feedback and the ability to identify areas for improvement in the interaction design.
+
+Iterative Design: The effectiveness of iterative design improvements based on user feedback, leading to an enhanced user experience.
+
+Documentation: The completeness and clarity of documentation, including interaction design description, user testing summary, and iterative design explanations.
+
+Presentation: The effectiveness of the presentation or report in conveying the interaction design process and improvements.

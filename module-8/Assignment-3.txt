@@ -1,0 +1,51 @@
+Mobile VR Application Development
+
+Objective: Learn to create VR applications for mobile devices using frameworks like Unity or A-Frame.
+
+Instructions:
+
+Background:
+Mobile VR platforms, such as Google Cardboard and Oculus Quest, offer unique opportunities for creating immersive VR experiences that can reach a broad audience. In this assignment, students will develop a VR application specifically designed for mobile VR platforms. They will choose or be assigned a concept suitable for mobile VR and use Unity3D or A-Frame to create the application. This assignment aims to familiarize students with the challenges and considerations of mobile VR development, including optimization for mobile hardware and implementing user-friendly controls.
+
+Task:
+
+Concept Selection: Start by either assigning students a suitable VR application concept for mobile VR or allowing them to propose their own. The concept should be appropriate for mobile VR and aligned with the course objectives.
+
+Development Platform: Instruct students to choose between Unity3D or A-Frame as their development platform. Ensure they have access to the necessary tools and resources for their chosen platform.
+
+Mobile VR Development: Task students with developing the VR application for mobile VR. They should consider the following aspects:
+
+a. Optimization: Optimize the application to run smoothly on mobile VR hardware. This includes optimizing graphics, textures, and interactions for performance.
+
+b. Mobile-Friendly Controls: Implement user-friendly controls suitable for mobile VR. Students should consider the use of gaze-based interactions, touch input, or controller input if applicable.
+
+c. Platform-Specific Considerations: If students choose a specific mobile VR platform (e.g., Oculus Quest), they should document any platform-specific considerations, such as controller support or platform-specific SDK integration.
+
+Testing and Debugging: Encourage students to thoroughly test and debug their mobile VR application. They should ensure that it runs smoothly, is comfortable to use, and does not cause motion sickness.
+
+Documentation: Ask students to create comprehensive documentation that includes the following:
+
+a. Application Description: Provide a brief description of the mobile VR application, its objectives, and intended user experience.
+
+b. Development Process: Describe the development process, including tools used, optimization techniques, and control implementations.
+
+c. Testing and User Feedback: Summarize testing efforts and any user feedback received during testing, including improvements made based on feedback.
+
+d. Platform-Specific Notes: If applicable, document any platform-specific considerations, challenges, or integrations.
+
+Presentation: Have students prepare a presentation or report showcasing their mobile VR application, the development process, optimization, and any unique features or considerations.
+
+Submission: Students should submit their documentation, presentation materials, and the mobile VR application project files electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your Mobile VR Application Development assignment will be evaluated based on the following criteria:
+
+Concept: The suitability and creativity of the chosen VR application concept for mobile VR.
+
+Development: The completeness and functionality of the mobile VR application, including optimization for performance and user-friendly controls.
+
+Testing and Debugging: The thoroughness of testing and debugging efforts, ensuring a comfortable and enjoyable mobile VR experience.
+
+Documentation: The completeness and clarity of the documentation, including application description, development process, testing, and platform-specific notes.
+
+Presentation: The effectiveness of the presentation or report in conveying the mobile VR application, development process, and any unique features or considerations.

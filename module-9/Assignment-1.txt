@@ -1,0 +1,45 @@
+VR Development Forum Participation
+
+Objective: Engage with the VR development community through online forums.
+
+Instructions:
+
+Background:
+Active participation in online VR development forums is a valuable way for students to stay updated with industry trends, exchange knowledge, and build a network of peers and mentors. In this assignment, students will join VR development forums such as Oculus Developer Forums, Reddit's r/oculusdev, or other relevant communities. They will actively participate in discussions, ask questions, share their experiences, provide constructive feedback to peers, and seek assistance when facing challenges in VR development.
+
+Task:
+
+Forum Selection: Instruct students to choose at least one VR development forum to participate in. They can select from options such as Oculus Developer Forums, Reddit's r/oculusdev, or any other reputable VR development community that aligns with their interests.
+
+Active Participation: Task students with actively engaging in discussions on the chosen forum(s). They should aim to:
+
+Post questions related to VR development concepts, tools, or challenges they encounter during the course.
+Share their experiences, insights, and solutions with the community.
+Respond to questions or comments from other forum members, providing helpful and constructive feedback.
+Knowledge Sharing: Encourage students to contribute valuable insights and solutions based on their course learnings and experiences. They should aim to be active contributors to the VR development community.
+
+Seek Assistance: Instruct students to use the forums as a resource for seeking assistance when they encounter challenges or have questions related to VR development. They should not hesitate to ask for help when needed.
+
+Summarization: Require students to create a summary report of their forum interactions. The report should include:
+
+A list of the forums they participated in.
+Brief descriptions of the discussions they engaged in or started.
+Key takeaways, insights, or solutions they gained from forum interactions.
+Any notable feedback or assistance they provided to peers.
+Reflections on the overall value of participating in VR development forums.
+Presentation: Have students present their forum participation experiences to the class, sharing their key takeaways, challenges faced, and how forum interactions enriched their understanding of VR development.
+
+Submission: Students should submit their summary reports and be prepared to present their experiences electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your VR Development Forum Participation assignment will be evaluated based on the following criteria:
+
+Active Participation: The extent and quality of students' active participation in VR development forums, including the number of discussions engaged in and the depth of their contributions.
+
+Knowledge Sharing: The value of insights and solutions students shared with the forum community, demonstrating their ability to contribute meaningfully.
+
+Seeking Assistance: The effectiveness of students in seeking assistance and solutions when facing challenges or questions related to VR development.
+
+Summarization: The completeness and clarity of the summary report, including key takeaways, reflections, and notable contributions made in the forums.
+
+Presentation: The effectiveness of the presentation in conveying the forum participation experiences, key learnings, and the value gained from engaging with the VR development community.

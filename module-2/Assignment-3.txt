@@ -1,0 +1,49 @@
+3D Animation Project
+
+Objective: Create a 3D animation sequence for VR.
+
+Instructions:
+
+Background:
+Animation is a powerful tool in virtual reality development, allowing you to bring characters and objects to life within VR environments. In this assignment, you will design and create a short 3D animation sequence using animation software and then integrate it into a VR project. This assignment will help you develop essential skills in 3D animation for VR applications.
+
+Task:
+
+Select an Animation Concept: Choose a concept for your 3D animation sequence. It could be a character performing an action (e.g., walking, waving), an object transforming or moving, or any other animation idea that interests you and aligns with the VR project you want to create.
+
+3D Animation Creation: Using animation software of your choice (e.g., Blender, Unity's Animator), create a short 3D animation sequence that brings your chosen concept to life. Focus on the following aspects:
+
+a. Rigging: If applicable, rig characters or objects to prepare them for animation. Ensure that rigs are well-constructed to facilitate smooth and realistic movement.
+
+b. Keyframing: Implement keyframes to define the starting and ending points of your animation. Animate characters or objects by manipulating their positions, rotations, and scales over time.
+
+c. Interpolation: Apply interpolation techniques (e.g., linear, Bezier) to achieve smooth and natural animation transitions. Pay attention to easing in and out to avoid sudden movements.
+
+Export Animation: Export your 3D animation sequence in a format compatible with your chosen VR development platform. Common formats include .fbx, .dae, or .glb/.gltf. Ensure that the animation is correctly exported and that it includes any necessary animations clips or rigs.
+
+VR Integration: Integrate your 3D animation sequence into a VR project. This can be an existing project or a new one created for this assignment. Ensure that the animation functions correctly within the VR environment and aligns with the overall project theme or concept.
+
+Documentation: Create a documentation file that includes the following information:
+
+a. Animation Concept: Describe your animation concept, including its purpose and relevance to the VR project.
+
+b. Animation Creation Process: Explain the steps you followed to create the animation, including any challenges you encountered and how you resolved them.
+
+Presentation: Prepare a short presentation or demonstration of your VR project with the integrated animation sequence. Present your project to the class, showcasing the animation's role within the VR experience.
+
+Submission: Submit your documentation, presentation materials, and VR project files (if applicable) electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your 3D Animation Project assignment will be evaluated based on the following criteria:
+
+Animation Quality: The quality of your 3D animation, including rigging, keyframing, and interpolation techniques.
+
+Documentation: The completeness and clarity of your documentation, including descriptions of your animation concept and the animation creation process.
+
+Integration: The successful integration of the animation into a VR project and its alignment with the project's theme or concept.
+
+Presentation: The effectiveness of your presentation in conveying the role and impact of the animation within the VR experience.
+
+Creativity: The originality and creativity in your choice of animation concept and its execution.
+
+Organization: Clear organization of your documentation and presentation materials.

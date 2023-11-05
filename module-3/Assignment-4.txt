@@ -1,0 +1,49 @@
+VR Physics Interactions in Unity
+
+Objective: Implement physics-based interactions in a Unity VR project.
+
+Instructions:
+
+Background:
+Physics-based interactions are essential for creating realistic and immersive virtual reality experiences. In this assignment, you will assign students a scenario that requires physics interactions, such as a virtual laboratory with physics experiments. Their task is to integrate Unity's physics engine, including Rigidbody and Collider components, to enable interactions like picking up objects, throwing them, or simulating collisions. Students will create a VR experience that showcases these physics interactions, allowing them to develop essential skills in physics-based VR development.
+
+Task:
+
+Scenario Selection: Choose or assign students a specific scenario that requires physics interactions within a virtual reality environment. For example, the scenario could be a virtual laboratory with physics experiments or any other context that aligns with the course curriculum.
+
+Unity VR Project Creation: Instruct students to create a new Unity VR project that is compatible with their chosen VR headset (e.g., Oculus Rift, HTC Vive). Ensure that the project is correctly configured for VR development.
+
+Physics Integration: Guide students to implement physics interactions within the VR project. This includes:
+
+a. Object Interaction: Allow users to interact with objects within the VR environment. Implement physics-based interactions that enable users to pick up, move, and manipulate objects in a realistic manner.
+
+b. Physics Experiments: If the scenario involves physics experiments, instruct students to create interactive elements that allow users to perform these experiments within the VR environment.
+
+c. Collisions and Simulations: Implement realistic physics collisions and simulations as needed for the scenario. Ensure that objects interact with each other and with the environment accurately.
+
+User Experience: Encourage students to focus on creating an immersive user experience. Ensure that the physics interactions feel intuitive and responsive within the VR environment.
+
+Testing: Test the VR experience thoroughly to ensure that physics interactions work as intended. Address any issues or glitches that arise during testing.
+
+Documentation: Create a documentation file that includes the following information:
+
+a. Scenario Description: Describe the scenario assigned to you and its relevance to physics interactions in VR.
+
+b. Physics Integration Details: Explain how you integrated physics interactions into your Unity VR project, including any scripts, components, or techniques used.
+
+Presentation: Prepare a brief presentation or demonstration of your VR experience showcasing physics interactions. Present your project to the class, highlighting the physics-based elements and user experience.
+
+Submission: Submit your documentation, presentation materials, and VR project files (if applicable) electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your VR Physics Interactions in Unity assignment will be evaluated based on the following criteria:
+
+Scenario Alignment: The alignment of the VR project with the assigned scenario and the relevance of physics interactions to that scenario.
+
+Physics Integration: The effectiveness and accuracy of physics integration, including object interactions, simulations, and collisions.
+
+User Experience: The quality of the user experience, including the intuitiveness and responsiveness of physics interactions.
+
+Documentation: The completeness and clarity of your documentation, including scenario description and physics integration details.
+
+Presentation: The effectiveness of your presentation in conveying the VR experience and physics-based interactions to the class.

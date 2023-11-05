@@ -1,0 +1,43 @@
+VR Comfort Zone Evaluation
+
+Objective: Understand the importance of comfort in VR design.
+
+Instructions:
+
+Background:
+Ensuring comfort in virtual reality experiences is crucial for creating enjoyable and user-friendly VR applications. In this assignment, you will provide students with a VR environment that contains elements that may cause discomfort, such as motion sickness-inducing movements or tight spaces. Their task is to identify potential discomfort issues within the environment and propose design modifications to improve comfort. This assignment will help students develop a deeper understanding of the importance of comfort in VR design.
+
+Task:
+
+VR Environment: Provide students with a pre-designed VR environment that includes elements that can potentially cause discomfort. Examples of discomfort-inducing elements include:
+
+a. Motion Sickness: A VR environment with rapid or irregular movements, or excessive rotation.
+
+b. Tight Spaces: A scenario that involves confined spaces or narrow corridors.
+
+c. Visual Discomfort: Elements like flashing lights, intense visual effects, or erratic visual changes.
+
+Comfort Zone Evaluation: Instruct students to explore the VR environment and identify specific discomfort issues they experience. Encourage them to note any feelings of motion sickness, unease, or discomfort.
+
+Design Modifications: Task students with proposing design modifications to the VR environment to address the identified discomfort issues. These modifications should aim to make the VR experience more comfortable and user-friendly.
+
+Report Creation: Ask students to create a report that includes the following information:
+
+a. Comfort Issues: Document the discomfort issues identified within the VR environment. Be specific about the elements or situations that caused discomfort.
+
+b. Design Changes: Describe the design modifications proposed to improve comfort. Explain how each modification addresses a specific discomfort issue.
+
+Reflection: Encourage students to reflect on the importance of comfort in VR design. Discuss how addressing comfort issues enhances the overall quality of a VR experience.
+
+Submission: Submit the report electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your VR Comfort Zone Evaluation assignment will be evaluated based on the following criteria:
+
+Comfort Issue Identification: The thoroughness and accuracy of identifying discomfort issues within the VR environment.
+
+Design Modifications: The effectiveness and relevance of the proposed design modifications in addressing discomfort issues.
+
+Report Clarity: The clarity and organization of the report, including the documentation of discomfort issues and design changes.
+
+Reflection: The quality of the reflection on the importance of comfort in VR design and how addressing comfort issues enhances the user experience.

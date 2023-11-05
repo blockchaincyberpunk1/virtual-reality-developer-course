@@ -1,0 +1,49 @@
+3D Graphics Optimization
+
+Objective: Optimize a 3D scene for VR performance.
+
+Instructions:
+
+Background:
+Optimizing 3D graphics is a critical skill for virtual reality developers to ensure smooth and immersive experiences for users. In this assignment, you will be provided with a complex 3D scene that may not run smoothly in VR due to high resource demands. Your task is to optimize the scene to improve performance by reducing polycount, implementing Level of Detail (LOD) techniques, and optimizing textures.
+
+Task:
+
+Complex 3D Scene: You will be provided with a complex 3D scene that has performance issues in VR. The scene may have a high polycount, large textures, or other resource-intensive elements that affect performance.
+
+Performance Analysis: Begin by analyzing the performance of the provided 3D scene within your VR development environment. Measure and record metrics such as frame rate, GPU usage, and memory usage to establish a baseline for performance.
+
+Optimization Techniques: Apply the following optimization techniques to improve the performance of the 3D scene:
+
+a. Polycount Reduction: Identify and reduce the polycount of objects within the scene, prioritizing those with the highest impact on performance. Use techniques like retopology or simplification.
+
+b. Level of Detail (LOD): Implement Level of Detail (LOD) models for objects to decrease the level of detail as they move farther from the camera. This reduces the rendering load for distant objects.
+
+c. Texture Optimization: Optimize textures within the scene by resizing, compressing, or using more efficient formats while maintaining visual quality.
+
+Performance Testing: After applying the optimization techniques, retest the performance of the 3D scene within your VR development environment. Measure and record the same metrics as in step 2 to assess the improvements achieved.
+
+Documentation: Create a documentation file that includes the following information:
+
+a. Performance Analysis: Include the initial performance metrics measured before optimization.
+
+b. Optimization Details: Describe the optimization techniques you applied, including specific changes made to objects, LOD settings, and texture optimizations.
+
+c. Performance Improvements: Report the performance improvements achieved after optimization, including frame rate increases and resource usage reductions.
+
+Presentation: Prepare a brief presentation of your optimization process and results. Present your findings to the class, emphasizing the significance of optimizing 3D graphics for VR performance.
+
+Submission: Submit your documentation, presentation materials, and the optimized 3D scene (if applicable) electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your 3D Graphics Optimization assignment will be evaluated based on the following criteria:
+
+Performance Improvement: The extent to which your optimization efforts improved the performance of the 3D scene in VR.
+
+Documentation: The completeness and clarity of your documentation, including performance analysis, optimization details, and performance improvements.
+
+Presentation: The effectiveness of your presentation in conveying the optimization process and results.
+
+Creativity: The creativity and ingenuity in implementing optimization techniques to address performance issues.
+
+Organization: Clear organization of your documentation and presentation materials.

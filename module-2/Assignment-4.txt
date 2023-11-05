@@ -1,0 +1,47 @@
+Interactive 3D Scene
+
+Objective: Develop an interactive 3D scene for virtual reality.
+
+Instructions:
+
+Background:
+Creating interactive 3D scenes is a fundamental skill for virtual reality developers. In this assignment, you will be assigned a specific theme or scenario and tasked with creating an immersive and interactive 3D scene within that theme. This assignment will help you apply your knowledge of VR development to create engaging user experiences.
+
+Task:
+
+Assignment Allocation: You will be assigned a specific theme or scenario for your interactive 3D scene. The themes or scenarios can range from a virtual museum, an underwater world, a space station, or any other environment that is relevant to the course curriculum.
+
+3D Scene Creation: Using VR development tools such as Unity or Unreal Engine, create an interactive 3D scene based on the assigned theme or scenario. Pay attention to the following aspects:
+
+a. Environment Design: Design the 3D environment, including the layout, objects, and terrain, to align with the theme or scenario.
+
+b. Object Interactions: Implement interactive features that allow users to interact with objects or elements within the VR environment. This could include object selection, grabbing and throwing, rotating, or any other interactive actions.
+
+c. Physics-Based Interactions: Incorporate physics-based interactions where applicable. Ensure that objects within the scene react realistically to user actions and environmental factors (e.g., gravity, collisions).
+
+d. Teleportation or Navigation: Implement a method for users to navigate within the scene. This could involve teleportation, smooth locomotion, or any other navigation technique that suits the VR experience.
+
+Documentation: Create a documentation file that includes the following information:
+
+a. Theme or Scenario Description: Describe the theme or scenario assigned to you and explain how your 3D scene aligns with it.
+
+b. Interactive Features: Detail the interactive features you implemented within the scene, including object interactions and navigation methods.
+
+Presentation: Prepare a short presentation or demonstration of your interactive 3D scene. Present your scene to the class, showcasing its interactive elements and providing guidance on how to navigate and interact within it.
+
+Submission: Submit your documentation, presentation materials, and VR project files electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your Interactive 3D Scene assignment will be evaluated based on the following criteria:
+
+Scene Quality: The quality of the 3D scene, including environment design and object placement.
+
+Interactivity: The effectiveness of interactive features, including object interactions and navigation methods.
+
+Documentation: The completeness and clarity of your documentation, including the description of the assigned theme or scenario and the interactive features implemented.
+
+Presentation: The effectiveness of your presentation in conveying the interactive elements and user experience within the VR scene.
+
+Creativity: The originality and creativity in your scene design and interactive features.
+
+Organization: Clear organization of your documentation and presentation materials.

@@ -1,0 +1,55 @@
+Interactive VR UI in Unity
+
+Objective: Develop an interactive user interface (UI) for a VR experience in Unity.
+
+Instructions:
+
+Background:
+Creating a user-friendly and interactive interface is crucial for enhancing the user experience in virtual reality. In this assignment, you will be provided with a VR scenario (e.g., a virtual store, a game level) that requires user interaction. Your task is to design and implement an interactive UI for this VR scenario using Unity's UI system and VR-specific UI elements. This assignment will help you develop essential skills in VR user interface design and implementation.
+
+Task:
+
+VR Scenario Selection: Choose one of the following VR scenarios for your assignment:
+
+a. Virtual Store: Design a virtual store where users can browse and interact with virtual products.
+
+b. Game Level: Create a game level or environment that includes interactive elements and gameplay mechanics.
+
+UI Design: Design a user interface (UI) for your chosen VR scenario. Consider the following aspects:
+
+a. Layout: Design the layout of the UI elements, including their placement and organization within the VR environment.
+
+b. UI Elements: Select and design UI elements that are suitable for the VR scenario. You may use Unity's UI system and VR-specific UI elements such as laser pointers, hand interactions, or gaze-based selection.
+
+c. Interactivity: Plan and design interactive elements within the UI, such as buttons, sliders, or toggles, that users can interact with using VR controllers or gaze-based input.
+
+UI Implementation: Implement the designed UI within your VR scene using Unity. Ensure that the UI elements are correctly placed and functional within the VR environment.
+
+User Interaction: Demonstrate how users can interact with the VR UI in your created scene. Provide clear instructions or guidance on how to navigate, select, and interact with the UI elements using VR controllers or gaze-based input.
+
+Testing: Test the VR UI within your scenario to ensure that it functions as intended. Pay attention to user feedback, usability, and any issues that arise during testing.
+
+Documentation: Create a documentation file that includes the following information:
+
+a. Scenario Description: Describe the VR scenario you chose and explain the purpose of the VR UI within that scenario.
+
+b. UI Design Overview: Provide an overview of your UI design, including layout, UI elements, and interactivity.
+
+c. Implementation Details: Explain how you implemented the UI in Unity, including any scripts or components used.
+
+Presentation: Prepare a brief presentation or demonstration of your VR scenario with the implemented interactive UI. Present your scenario and show how users can interact with the VR UI effectively.
+
+Submission: Submit your documentation, presentation materials, and VR project files (if applicable) electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your Interactive VR UI in Unity assignment will be evaluated based on the following criteria:
+
+UI Design: The quality of your VR UI design, including layout, UI elements, and interactivity.
+
+Implementation: The effectiveness of your implementation of the VR UI within the chosen VR scenario.
+
+Documentation: The completeness and clarity of your documentation, including scenario description, UI design overview, and implementation details.
+
+User Interaction: The usability and effectiveness of user interaction with the VR UI elements.
+
+Presentation: The effectiveness of your presentation in conveying the VR scenario and demonstrating how users can interact with the VR UI.

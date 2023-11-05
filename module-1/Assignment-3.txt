@@ -1,0 +1,49 @@
+VR Hardware Setup
+
+Objective: Familiarize students with setting up a VR hardware system.
+
+Instructions:
+
+Background:
+One of the essential skills for a virtual reality developer is the ability to set up VR hardware correctly. In this assignment, you will choose a specific VR headset (e.g., Oculus Quest 2) and provide detailed step-by-step instructions for setting it up. The goal is to create clear and comprehensive guidelines that someone with little to no prior VR experience can follow.
+
+Task:
+
+Select a VR Headset: Choose a specific VR headset for this assignment. Ensure that you have access to the headset and are familiar with its setup process. You can select from a range of options, including but not limited to Oculus Quest 2, HTC Vive, PlayStation VR, or any other VR headset that is relevant to the course.
+
+Step-by-Step Setup Guide: Create a step-by-step setup guide that covers the entire process of setting up the chosen VR headset. Your guide should be detailed and easy to follow. Consider the following components and aspects:
+
+a. Hardware Components: List all the hardware components that come with the VR headset, such as the headset itself, controllers, base stations, and any necessary cables.
+
+b. System Requirements: Mention the minimum system requirements for the VR headset, including compatible devices (e.g., PC, console, smartphone).
+
+c. Physical Setup: Provide clear instructions for setting up the physical components, including connecting cables, mounting sensors (if applicable), and ensuring a safe play area.
+
+d. Software Installation: Explain how to install any required software or apps on the user's device.
+
+e. Initial Configuration: Walk the user through the initial configuration process, including pairing controllers, adjusting settings, and creating a user profile.
+
+f. Safety Guidelines: Include safety guidelines and recommendations, such as maintaining a clear play area, taking breaks, and avoiding obstacles.
+
+Visual Aids: Enhance your instructions with visual aids such as screenshots, diagrams, or videos. These should be clear and well-labeled to illustrate key steps in the setup process.
+
+Testing: Test your setup instructions by having a friend or family member follow them. Ensure that the person can successfully set up the VR headset using your guide. Gather feedback on the clarity and completeness of your instructions.
+
+Reflection: Write a brief reflection on the testing process. Discuss any challenges encountered, feedback received, and how you addressed any issues or ambiguities in your instructions.
+
+Submission: Submit your VR hardware setup guide, including any visual aids and the reflection, electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your VR hardware setup guide will be evaluated based on the following criteria:
+
+Clarity: The clarity and comprehensiveness of your step-by-step instructions.
+
+Visual Aids: The effectiveness and relevance of visual aids in enhancing understanding.
+
+Testing: The successful completion of the setup by your test participant, as well as feedback received and addressed.
+
+Reflection: Thoughtful reflection on the testing process and any improvements made based on feedback.
+
+Organization: Clear organization of the setup guide and its components.
+
+Writing Style: Clear and concise writing style with minimal grammatical and spelling errors.

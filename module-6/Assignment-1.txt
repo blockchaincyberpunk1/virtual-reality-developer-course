@@ -1,0 +1,49 @@
+Understanding Spatial Audio
+
+Objective: Explore the principles of spatial audio in VR.
+
+Instructions:
+
+Background:
+Spatial audio is a crucial component of virtual reality (VR) experiences, enhancing immersion and presence by providing realistic audio cues based on the user's position and orientation in the virtual environment. In this assignment, you will provide students with a VR project or scene and task them with implementing spatial audio techniques. Students should learn how to position 3D sounds accurately within the VR environment and apply sound attenuation based on distance. This assignment will help students gain practical experience in understanding and implementing spatial audio in VR.
+
+Task:
+
+VR Project or Scene: Assign students a specific VR project or scene that they can use for this assignment. Ensure that the project or scene offers opportunities for the effective use of spatial audio and aligns with the course's objectives (e.g., a VR game, architectural visualization, or virtual museum).
+
+Spatial Audio Implementation: Instruct students to implement spatial audio techniques within the VR project or scene. Specifically, they should:
+
+a. 3D Sound Positioning: Place sounds within the VR environment to accurately reflect their virtual source. Sounds should change in volume and direction as the user's position and orientation change.
+
+b. Sound Attenuation: Implement sound attenuation based on distance to create a realistic audio experience. Sounds should become quieter as the user moves away from their source.
+
+Spatial Audio Explanation: Ask students to provide a written explanation of the concept of spatial audio and its importance in VR experiences. They should describe how spatial audio enhances the sense of presence and immersion in virtual environments.
+
+Documentation: Encourage students to create a documentation file that includes the following information:
+
+a. VR Project or Scene Description: Describe the VR project or scene assigned and explain how spatial audio enhances the user experience within that context.
+
+b. Spatial Audio Implementation: Provide technical details on how spatial audio techniques, including 3D sound positioning and sound attenuation, were implemented within the VR project.
+
+c. Spatial Audio Explanation: Explain the concept of spatial audio and its significance in creating a more immersive VR experience. Use examples and illustrations, if necessary.
+
+Impact on User Immersion: Instruct students to conduct user testing or gather feedback from peers to assess the impact of spatial audio on user immersion and presence. They should document user reactions and feedback.
+
+Presentation: Prepare a brief presentation or demonstration of the VR project or scene, showcasing the spatial audio implementation and discussing the user feedback and observations regarding the impact of spatial audio on immersion.
+
+Submission: Submit your documentation, presentation materials, and VR project files (if applicable) electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your Understanding Spatial Audio assignment will be evaluated based on the following criteria:
+
+VR Project or Scene: The appropriateness of the selected VR project or scene for implementing and demonstrating spatial audio principles and its alignment with the course's objectives.
+
+Spatial Audio Implementation: The effectiveness and accuracy of implementing spatial audio techniques, including 3D sound positioning and sound attenuation within the VR project.
+
+Spatial Audio Explanation: The clarity and depth of the explanation of the concept of spatial audio and its role in enhancing presence and immersion in VR.
+
+Documentation: The completeness and clarity of your documentation, including VR project description, technical implementation details, spatial audio explanation, and user feedback integration.
+
+Impact on User Immersion: The ability to gather and report on user feedback and observations regarding the impact of spatial audio on immersion and presence in the VR environment.
+
+Presentation: The effectiveness of your presentation in conveying the spatial audio implementation, showcasing the VR project, and discussing the impact on user immersion.

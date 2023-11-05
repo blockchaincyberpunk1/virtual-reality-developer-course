@@ -1,0 +1,44 @@
+Open-Source Contribution
+
+Objective: Contribute to the VR development community by participating in an open-source project.
+
+Instructions:
+
+Background:
+Contributing to open-source projects is an excellent way for students to gain practical experience, collaborate with a broader developer community, and give back to the VR development ecosystem. In this assignment, students will be introduced to an open-source VR project or framework (e.g., A-Frame, Godot Engine VR) and will be tasked with selecting an issue or feature to work on. They will make contributions to the project's codebase, document their contributions and challenges faced, and describe their collaboration with the open-source community. Sharing their experiences and code contributions with the class will foster a collaborative learning environment.
+
+Task:
+
+Open-Source Project Introduction: Introduce students to the selected open-source VR project or framework, providing details about its purpose, features, and community.
+
+Issue or Feature Selection: Instruct students to explore the project's issue tracker or contribution guidelines to select an issue or feature they would like to work on. The chosen task should align with their skills and interests.
+
+Contributions: Task students with actively contributing to the selected open-source project. They should:
+
+Fork the project's repository and create a new branch for their work.
+Code, test, and make necessary improvements based on the chosen issue or feature.
+Follow the project's coding standards and guidelines.
+Documentation: Require students to maintain detailed documentation of their contributions. This documentation should include:
+
+A description of the issue or feature they worked on.
+Code changes and explanations of their approach.
+Challenges or obstacles encountered during the contribution process and how they were overcome.
+Collaborative interactions with the open-source community, including discussions and feedback received.
+Peer Sharing: Encourage students to share their open-source contribution experiences with their peers in the class. They can present their contributions, challenges, and how they engaged with the project's community.
+
+Reflection: Instruct students to reflect on the significance of contributing to open-source VR projects. They should consider the benefits, such as skill enhancement and community involvement.
+
+Submission: Students should submit their documentation of contributions along with a reflection on their experiences through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your Open-Source Contribution assignment will be evaluated based on the following criteria:
+
+Issue or Feature Selection: The appropriateness of the chosen issue or feature, considering alignment with skills and interests.
+
+Contributions: The quality and completeness of code contributions made to the open-source project, including adherence to coding standards.
+
+Documentation: The completeness and clarity of documentation, including descriptions of contributions, challenges faced, and collaborative interactions.
+
+Peer Sharing: The effectiveness of students' presentations in conveying their open-source contribution experiences and engaging with peers.
+
+Reflection: The depth of reflection on the significance and benefits of contributing to open-source VR projects.

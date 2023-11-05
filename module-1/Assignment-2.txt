@@ -1,0 +1,56 @@
+VR Hardware Comparison
+
+Objective: Compare different types of VR hardware and their capabilities.
+
+Instructions:
+
+Background:
+As a virtual reality developer, it's crucial to understand the various VR hardware options available and their respective strengths and weaknesses. This assignment will task you with conducting a detailed comparative analysis of popular VR headsets and tracking systems, providing insights into their specifications, features, and pros/cons for different use cases.
+
+Task:
+
+Select VR Hardware: Choose at least three popular VR headsets and tracking systems from the list below or feel free to add others if they are relevant to the comparison. Ensure you select a diverse range of options to cover various use cases:
+
+a. Oculus Rift
+b. HTC Vive
+c. PlayStation VR
+d. Valve Index
+e. Oculus Quest
+f. Windows Mixed Reality headsets (e.g., HP Reverb, Samsung Odyssey)
+g. Pimax VR headsets
+h. Any other VR hardware you believe is relevant.
+
+Create a Comparative Analysis: For each selected VR hardware, compile a comprehensive comparative analysis that includes the following sections:
+
+a. Introduction: Briefly introduce the VR hardware you are evaluating.
+
+b. Specifications: Provide a table or list of key specifications, such as display resolution, field of view, refresh rate, tracking technology, and weight.
+
+c. Features: Describe unique features or functionalities of each VR hardware, including controllers, built-in audio, and any special tracking capabilities.
+
+d. Pros and Cons: List the advantages and disadvantages of each VR hardware. Consider aspects such as price, ease of setup, compatibility, software ecosystem, and comfort.
+
+e. Use Case Recommendations: Based on your analysis, recommend which VR hardware would be most suitable for specific use cases, such as gaming, education, training, or enterprise applications. Justify your recommendations with reference to the hardware's specifications and features.
+
+Presentation: Organize your findings in a clear and visually appealing format. You can use tables, charts, and images to enhance the presentation of your comparative analysis.
+
+Citations: Properly cite your sources when referencing specifications and features of the VR hardware. Use a consistent citation style (e.g., APA, MLA, or Chicago).
+
+Length and Format: Your comparative analysis should be well-structured and should not exceed 1500 words. Use a standard font (e.g., Times New Roman, Arial) with 1.5-line spacing.
+
+Submission: Submit your comparative analysis electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your comparative analysis will be evaluated based on the following criteria:
+
+Content: The accuracy and completeness of the specifications, features, pros, and cons of each VR hardware.
+
+Analysis: The quality of your recommendations for different use cases, backed by well-justified arguments.
+
+Organization: Clarity of the report's structure, logical flow of information, and effective use of visuals.
+
+Citations: Properly formatted and accurate citations of all sources used.
+
+Writing Style: Clear and concise writing style with minimal grammatical and spelling errors.
+
+Creativity: Originality in presenting the comparative analysis and recommendations.

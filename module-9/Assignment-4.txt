@@ -1,0 +1,47 @@
+VR Trends Research and Analysis
+
+Objective: Stay informed about emerging VR trends and technologies.
+
+Instructions:
+
+Background:
+Staying updated with the latest trends and technologies is essential for virtual reality developers to remain competitive and innovative. In this assignment, students will research and analyze recent VR developments, tools, or trends to understand their implications for VR development and user experiences. By choosing a specific topic from the provided list, students will delve into a VR trend and provide recommendations for developers interested in exploring it further.
+
+Task:
+
+Topic Selection: Provide students with a list of recent VR developments, tools, or trends. Topics could include hand tracking, wireless VR, social VR, haptic feedback, or others. Each student should choose one topic from the list that interests them.
+
+Research: Instruct students to conduct thorough research on their chosen topic. They should explore relevant articles, whitepapers, research papers, and case studies to gather information about the trend. Encourage them to use credible sources and explore both the technical and user experience aspects.
+
+Report or Presentation: Depending on the course format, students can choose between two formats for presenting their findings:
+
+Report: If chosen, students should write a detailed report on their selected VR trend. The report should include:
+An introduction to the chosen trend.
+A review of recent developments and advancements related to the trend.
+Analysis of the potential impact on VR development and user experiences.
+Recommendations for developers interested in leveraging or exploring the trend.
+Presentation: If chosen, students should create an informative presentation to deliver to the class. The presentation should cover the same key points as the report.
+Visual Aids (Presentation Only): If students choose the presentation format, they should incorporate visual aids, such as slides or graphics, to enhance their presentation.
+
+Peer Feedback: After each presentation or report submission, encourage students to provide constructive feedback to their peers. This can be done through class discussions or online forums.
+
+Reflection: Instruct students to reflect on what they've learned from researching and presenting their chosen VR trend. They should consider how this knowledge could influence their future VR development projects.
+
+Submission: Students should submit their reports or presentations electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your VR Trends Research and Analysis assignment will be evaluated based on the following criteria:
+
+Topic Selection: The appropriateness and relevance of the chosen VR trend.
+
+Research: The depth and quality of research conducted, including the use of credible sources.
+
+Analysis: The ability to analyze the potential impact of the trend on VR development and user experiences.
+
+Recommendations: The quality and relevance of recommendations provided for developers interested in exploring the trend.
+
+Report or Presentation Quality (if applicable): The clarity, organization, and visual aids (for presentations) used to convey information.
+
+Peer Feedback: Active and constructive participation in peer feedback sessions.
+
+Reflection: The depth of reflection on the significance of the chosen VR trend and its potential applications.

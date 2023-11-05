@@ -1,0 +1,51 @@
+Sound Propagation in VR Environments
+
+Objective: Study sound propagation within VR environments.
+
+Instructions:
+
+Background:
+Understanding how sound propagates within virtual reality (VR) environments is essential for creating immersive and realistic audio experiences. In this assignment, you will assign students a VR environment with specific architectural features and task them with simulating sound propagation within that environment. Students should consider factors such as materials, reflections, and obstructions when modeling sound propagation. Additionally, students will implement audio experiences that align with the environment's characteristics. This assignment will help students gain practical experience in studying and implementing sound propagation in VR.
+
+Task:
+
+VR Environment Assignment: Assign students a specific VR environment with architectural features that are conducive to the study of sound propagation. Ensure that the environment provides opportunities to explore factors like materials, reflections, and obstructions that affect sound.
+
+Sound Propagation Simulation: Instruct students to simulate sound propagation within the assigned VR environment. They should consider the following aspects:
+
+a. Materials: Define and assign acoustic properties to materials within the environment. Different materials should affect sound reflection, absorption, and diffusion differently.
+
+b. Reflections: Implement sound reflection models to simulate how sound waves bounce off surfaces and interact with the environment's geometry.
+
+c. Obstructions: Account for obstructions that can block or alter sound paths, such as walls, objects, and terrain.
+
+Audio Experience Implementation: Task students with implementing audio experiences within the VR environment that reflect the environment's characteristics. This may include the placement of sound sources, environmental sounds, and user interactions with audio.
+
+Documentation: Encourage students to create a comprehensive documentation file that includes the following information:
+
+a. VR Environment Description: Describe the assigned VR environment and its architectural features. Explain how the environment is suitable for studying sound propagation.
+
+b. Sound Propagation Models: Provide technical details on the sound propagation models implemented within the VR environment, including materials, reflections, and obstructions.
+
+c. Audio Experience: Describe the audio experiences integrated into the VR environment and how they align with the environment's characteristics.
+
+Impact on User Experience: Instruct students to conduct user testing or gather feedback from peers to assess the impact of sound propagation models and audio experiences on the overall VR user experience. Document user reactions and feedback.
+
+Presentation: Prepare a brief presentation or demonstration of the VR environment, showcasing the sound propagation models, audio experiences, and discussing the user feedback and observations regarding the impact of sound on the VR experience.
+
+Submission: Submit your documentation, presentation materials, and VR project files (if applicable) electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your Sound Propagation in VR Environments assignment will be evaluated based on the following criteria:
+
+VR Environment Assignment: The appropriateness of the assigned VR environment for studying sound propagation and its alignment with the course's objectives.
+
+Sound Propagation Simulation: The effectiveness and accuracy of simulating sound propagation within the VR environment, considering materials, reflections, and obstructions.
+
+Audio Experience Implementation: The alignment of audio experiences with the environment's characteristics and their integration into the VR environment.
+
+Documentation: The completeness and clarity of your documentation, including VR environment description, technical details of sound propagation models, and audio experience descriptions.
+
+Impact on User Experience: The ability to gather and report on user feedback and observations regarding the impact of sound propagation models and audio experiences on the VR user experience.
+
+Presentation: The effectiveness of your presentation in conveying the sound propagation models, showcasing the VR environment, and discussing the impact on user immersion.

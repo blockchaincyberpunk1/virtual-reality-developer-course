@@ -1,0 +1,49 @@
+Cross-Platform VR Experience
+
+Objective: Create a VR experience that works seamlessly on both web browsers and mobile VR platforms.
+
+Instructions:
+
+Background:
+Cross-platform compatibility is a valuable skill for virtual reality developers, as it allows users to access VR experiences across different devices and platforms. In this assignment, students will take on the challenge of developing a VR experience that is accessible from both web browsers and mobile VR platforms. They will use WebVR technology for the web version and Unity3D or A-Frame for the mobile VR version. The objective is to ensure that the VR experience functions smoothly and maintains performance on both platforms.
+
+Task:
+
+Project Selection: Students can choose to work with an existing VR project they've developed during the course or create a new project suitable for this assignment. The project should be engaging and suitable for cross-platform VR access.
+
+Development Platforms:
+
+Web Version: Instruct students to use WebVR technology (e.g., A-Frame) to create a web-based VR version of their project. Ensure they have access to the necessary tools and resources for web development.
+Mobile VR Version: Task students with developing a mobile VR version of the project using Unity3D or A-Frame. They should consider the limitations of mobile VR hardware and optimization for performance.
+Cross-Platform Compatibility: Emphasize the importance of maintaining functionality and performance on both platforms. Instruct students to consider factors such as graphics, interactivity, and user controls.
+
+Optimization Strategies: Encourage students to document the strategies and optimizations applied to achieve cross-platform compatibility. This may include graphics optimization, control adjustments, and performance enhancements.
+
+Testing: Instruct students to thoroughly test their cross-platform VR experience on various web browsers and mobile VR devices. They should ensure that it functions as intended, is comfortable to use, and does not cause motion sickness.
+
+Documentation: Ask students to create comprehensive documentation that includes the following:
+
+a. Project Description: Provide a brief description of the VR experience, its objectives, and intended user experience on both web and mobile VR.
+
+b. Development Process: Describe the development process, including tools used, optimization techniques, and cross-platform considerations.
+
+c. Optimization Strategies: Explain the strategies and optimizations applied to achieve cross-platform compatibility.
+
+d. Testing Results: Summarize testing efforts and results, including any issues encountered and solutions implemented.
+
+Presentation: Have students prepare a presentation or report showcasing their cross-platform VR experience, the development process, optimization, and any unique features or considerations.
+
+Submission: Students should submit their documentation, presentation materials, and the cross-platform VR project files electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your Cross-Platform VR Experience assignment will be evaluated based on the following criteria:
+
+Cross-Platform Compatibility: The ability to create a VR experience that functions smoothly on both web browsers and mobile VR platforms.
+
+Optimization: Effective use of optimization strategies to ensure performance on both platforms without sacrificing functionality.
+
+Testing: Thorough testing of the cross-platform VR experience, ensuring it is comfortable and functional on various web browsers and mobile VR devices.
+
+Documentation: The completeness and clarity of documentation, including project description, development process, optimization strategies, and testing results.
+
+Presentation: The effectiveness of the presentation or report in conveying the cross-platform VR experience, development process, and any unique features or considerations.

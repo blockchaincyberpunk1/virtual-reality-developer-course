@@ -1,0 +1,49 @@
+Unity3D VR Scene Setup
+
+Objective: Get familiar with Unity3D and set up a basic VR scene.
+
+Instructions:
+
+Background:
+Unity3D is a powerful platform for developing virtual reality applications, and familiarity with its tools and workflows is essential for virtual reality developers. In this assignment, you will create a simple VR scene in Unity3D, integrating either the Oculus or SteamVR integration package. This assignment will help you become comfortable with Unity3D and establish the foundation for developing VR experiences.
+
+Task:
+
+Select VR Platform: Choose one of the following VR platforms to work with: Oculus or SteamVR. Ensure that you have the necessary hardware and software installed to develop for the chosen platform.
+
+Scene Creation: Create a new Unity3D project for VR development. Set up a basic VR scene with the following elements:
+
+a. Objects: Add at least three 3D objects (e.g., cubes, spheres, or custom models) to your VR scene. These objects will serve as elements within the virtual environment.
+
+b. Camera Rig: Set up the VR camera rig for tracking and movement. Configure the camera rig to allow for VR interactions, such as head tracking and controller input.
+
+c. Player Movement: Implement a basic player movement system that allows users to explore the virtual environment. You can use locomotion techniques such as teleportation or smooth movement, depending on your chosen VR platform.
+
+Integration Package: Integrate the Oculus or SteamVR SDK/package into your Unity project, depending on your selected VR platform. Ensure that the necessary components and prefabs are imported and configured correctly.
+
+Testing: Test your VR scene using a compatible VR headset. Ensure that the scene functions as intended, with proper tracking, object interaction, and movement controls. Pay attention to any issues or glitches and document them.
+
+Documentation: Create a documentation file that includes the following information:
+
+a. Platform Selection: Mention the VR platform you chose to work with (Oculus or SteamVR) and explain your reasons for selecting it.
+
+b. Scene Description: Describe the virtual environment you created, including the objects, camera rig setup, and player movement controls.
+
+c. Testing Experience: Share your experience testing the VR scene using a VR headset. Document any challenges faced or improvements made during testing.
+
+Reflection: Write a brief reflection on your experience with Unity3D and VR scene setup. Discuss the importance of proper VR scene setup for delivering a seamless VR experience.
+
+Submission: Submit your documentation electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your Unity3D VR Scene Setup assignment will be evaluated based on the following criteria:
+
+Scene Setup: The completeness and functionality of your VR scene in Unity3D, including object placement, camera rig configuration, and player movement controls.
+
+Documentation: The completeness and clarity of your documentation, including scene description, testing experience, and platform selection rationale.
+
+Testing Experience: The effectiveness of your testing and the ability to identify and document any issues or improvements needed.
+
+Reflection: Thoughtful reflection on the importance of proper VR scene setup and its impact on the VR user experience.
+
+Platform Selection: Clear explanation of your choice of VR platform (Oculus or SteamVR) and reasons for selection.

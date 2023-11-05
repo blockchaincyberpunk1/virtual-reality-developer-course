@@ -1,0 +1,49 @@
+3D Model Creation
+
+Objective: Create a 3D model for use in virtual reality.
+
+Instructions:
+
+Background:
+One of the fundamental skills for a virtual reality developer is the ability to create 3D models that can be used in VR environments. In this assignment, you will choose an object or character and create a detailed 3D model using a 3D modeling software such as Blender or Maya. This assignment will help you develop your skills in 3D modeling for VR applications.
+
+Task:
+
+Object or Character Selection: Choose an object or character that you would like to create a 3D model of. This could be anything that interests you, such as a piece of furniture, a natural element (e.g., a tree), a vehicle, or a character for a VR game.
+
+3D Model Creation: Using a 3D modeling software of your choice (e.g., Blender, Maya, 3ds Max), create a detailed 3D model of the chosen object or character. Pay close attention to the following aspects:
+
+a. Geometry: Ensure that your model's geometry is clean and optimized for real-time rendering in VR. Avoid unnecessary polygons and maintain good topology.
+
+b. Textures and Materials: Apply textures and materials to your model to make it visually appealing and realistic. Consider the use of normal maps, diffuse maps, and specular maps to enhance surface details.
+
+c. Scaling: Ensure that your model is scaled appropriately for VR. VR environments require accurate scaling to provide a realistic experience.
+
+Export to VR Format: Export your 3D model in a format compatible with your chosen VR development platform. Common formats for VR include .fbx, .obj, or .glb/.gltf. Ensure that the exported model retains textures and materials.
+
+Documentation: Create a brief documentation file that includes the following information:
+
+a. Object/Character Description: Describe the object or character you modeled, its purpose in a VR environment, and any specific features or details you added.
+
+b. 3D Modeling Process: Briefly explain the steps you followed during the 3D modeling process. Mention any challenges you encountered and how you addressed them.
+
+Presentation: Prepare a short presentation or demonstration of your 3D model. This can include rendered images or a 360-degree view of the model. Present your model to the class, highlighting its key features and the VR platform it is intended for.
+
+Submission: Submit your 3D model, documentation file, and presentation materials electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your 3D Model Creation assignment will be evaluated based on the following criteria:
+
+Model Quality: The quality and detail of your 3D model, including geometry, textures, and materials.
+
+Real-time Optimization: The degree to which your model is optimized for real-time rendering in VR environments.
+
+Documentation: The completeness and clarity of your documentation, including the object/character description and 3D modeling process.
+
+Presentation: The effectiveness of your presentation or demonstration in showcasing your 3D model's key features.
+
+Creativity: The originality and creativity in your choice of object or character and how well you captured its essence in the 3D model.
+
+Organization: Clear organization of your documentation and presentation materials.
+
+Compliance: Adherence to the specified file format for export and submission requirements.

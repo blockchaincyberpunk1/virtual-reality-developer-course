@@ -1,0 +1,53 @@
+Performance Optimization Techniques
+
+Objective: Learn and apply performance optimization techniques for VR.
+
+Instructions:
+
+Background:
+Performance optimization is essential for delivering a smooth and immersive virtual reality (VR) experience. In this assignment, you will assign students a VR project with known performance issues, such as frame rate drops or stuttering. Their task will be to implement performance optimization techniques commonly used in VR development, such as level-of-detail (LOD) models, occlusion culling, or dynamic batching. Students will measure and document the performance improvements achieved through their optimizations. This assignment will help students gain practical experience in identifying and addressing performance issues in VR applications.
+
+Task:
+
+VR Project Assignment: Assign students a specific VR project or provide them with a provided VR scene that exhibits performance issues (e.g., frame rate drops, stuttering, or high resource usage). Ensure that the project aligns with the course's objectives and can benefit from performance optimization.
+
+Performance Analysis: Instruct students to conduct an initial performance analysis of the assigned VR project. They should identify specific performance issues and bottlenecks that impact the user experience.
+
+Optimization Techniques: Task students with implementing one or more performance optimization techniques commonly used in VR development. Examples of optimization techniques include:
+
+a. Level-of-Detail (LOD) Models: Create LOD models for objects to reduce the polygon count and improve rendering performance at varying distances from the user.
+
+b. Occlusion Culling: Implement occlusion culling to prevent rendering objects that are not visible to the user, thus reducing GPU load.
+
+c. Dynamic Batching: Optimize rendering by grouping objects with similar materials into batches, reducing draw calls.
+
+Implementation and Testing: Instruct students to implement the chosen optimization techniques within the VR project. They should thoroughly test the project to ensure that the optimizations have been correctly applied.
+
+Performance Measurement: Task students with measuring and documenting the performance improvements achieved through their optimizations. This may include metrics such as frame rate, GPU and CPU usage, and memory consumption. Students should compare performance before and after optimization.
+
+Documentation: Encourage students to create a comprehensive documentation file that includes the following information:
+
+a. VR Project Description: Describe the assigned VR project and the initial performance issues that needed addressing.
+
+b. Optimization Techniques: Provide technical details of the optimization techniques implemented, including how they were applied within the project.
+
+c. Performance Measurements: Present the performance measurements and improvements achieved through optimization.
+
+Presentation: Prepare a brief presentation or report showcasing the VR project, the optimization techniques applied, and the impact on performance and user experience. Discuss the challenges faced and lessons learned during the optimization process.
+
+Submission: Submit your documentation, presentation materials, and VR project files (if applicable) electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your Performance Optimization Techniques assignment will be evaluated based on the following criteria:
+
+VR Project Assignment: The appropriateness of the assigned VR project for performance optimization and its alignment with the course's objectives.
+
+Performance Analysis: The ability to conduct an effective performance analysis and identify specific performance issues and bottlenecks.
+
+Optimization Techniques: The correct implementation and application of optimization techniques within the VR project.
+
+Performance Measurement: The accuracy and completeness of performance measurements and documentation, including frame rate, GPU and CPU usage, and memory consumption before and after optimization.
+
+Documentation: The completeness and clarity of your documentation, including VR project description, technical details of optimization techniques, and performance measurements.
+
+Presentation: The effectiveness of your presentation or report in conveying the optimization results, performance improvements, and user experience enhancements.

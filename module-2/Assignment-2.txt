@@ -1,0 +1,55 @@
+3D Lighting and Shading
+
+Objective: Experiment with lighting and shading in a 3D scene.
+
+Instructions:
+
+Background:
+Understanding how lighting and shading work in a virtual 3D environment is essential for creating immersive virtual reality experiences. In this assignment, you will work with a provided 3D scene and experiment with various lighting techniques, shading, and material properties. This assignment will help you develop practical skills in lighting and shading for VR development.
+
+Task:
+
+3D Scene: You will be provided with a 3D scene containing a room with furniture, objects, and textures. This scene will serve as the basis for your experiments in lighting and shading. Ensure you have access to the scene file and the necessary 3D modeling software (e.g., Blender, Unity).
+
+Lighting Techniques: Experiment with different lighting techniques within the 3D scene. Focus on the following types of lighting:
+
+a. Directional Light: Implement a directional light source (e.g., sunlight) and adjust its angle, intensity, and color to achieve different lighting effects.
+
+b. Point Light: Add point light sources (e.g., lamps, candles) in the scene. Adjust their intensity, range, and color to create realistic lighting within the room.
+
+c. Spotlight: Use spotlights to highlight specific areas or objects in the scene. Experiment with cone angles and falloff to control the spotlight's effect.
+
+Shading and Material Properties: Modify the shading and material properties of objects within the scene. Experiment with the following:
+
+a. Materials: Adjust the materials and textures of objects in the scene. Explore how different materials (e.g., wood, metal, fabric) react to lighting.
+
+b. Shading Models: Experiment with various shading models (e.g., Lambert, Blinn-Phong) to understand how they affect the appearance of objects.
+
+c. Normal Mapping: Apply normal maps to surfaces to add depth and detail. Observe how normal maps interact with different lighting conditions.
+
+Documentation: Document your findings and experiments. Create a report that includes:
+
+a. Descriptions: Describe the lighting techniques, shading, and material adjustments you applied in the scene.
+
+b. Screenshots or Video Walkthrough: Capture screenshots or create a video walkthrough of the 3D scene with different lighting setups and shading variations. Include annotations or explanations where necessary.
+
+Reflection: Write a brief reflection on your experiments. Discuss what you learned about how lighting and shading impact the realism and visual quality of a 3D environment.
+
+Presentation: Prepare a brief presentation of your findings and demonstrations. Present your findings to the class, highlighting the most significant outcomes of your experiments.
+
+Submission: Submit your documentation, presentation materials, and scene files electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your 3D Lighting and Shading assignment will be evaluated based on the following criteria:
+
+Experimentation: The extent to which you explored and experimented with different lighting techniques and shading properties.
+
+Documentation: The completeness and clarity of your documentation, including descriptions and visual representations.
+
+Presentation: The effectiveness of your presentation in conveying the impact of different lighting and shading setups.
+
+Reflection: Thoughtful reflection on the significance of lighting and shading in a virtual 3D environment.
+
+Creativity: The originality and creativity in your experimentation and presentation.
+
+Organization: Clear organization of your documentation and presentation materials.

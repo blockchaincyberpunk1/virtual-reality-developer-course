@@ -1,0 +1,47 @@
+Setting Up a WebVR Project
+
+Objective: Gain hands-on experience with setting up a basic WebVR project.
+
+Instructions:
+
+Background:
+WebVR is an exciting technology that allows virtual reality experiences to be delivered through web browsers, making VR accessible to a wide audience. In this assignment, students will create a simple VR scene using A-Frame, a popular WebVR framework. They will add 3D objects, textures, and basic interactions to the scene and run it in a web browser that supports WebVR, such as Mozilla Firefox. The assignment aims to provide students with practical experience in setting up and running a WebVR project.
+
+Task:
+
+Introduction to A-Frame: Start by introducing students to A-Frame, a framework for building WebVR experiences. Provide resources or tutorials that explain the basics of A-Frame and how it works.
+
+VR Scene Creation: Instruct students to create a simple VR scene using A-Frame. The scene should include the following components:
+
+a. 3D Objects: Add at least three 3D objects to the scene, such as cubes, spheres, or models. Students can use A-Frame's built-in primitive shapes or import custom models if desired.
+
+b. Textures and Materials: Apply textures and materials to the 3D objects to make them visually appealing. Encourage students to experiment with different materials and textures.
+
+c. Interactions: Implement basic interactions in the scene. For example, students can allow users to click on objects to trigger animations or change their appearance. This introduces basic user interaction concepts in VR.
+
+WebVR Compatibility: Ensure that students are using a web browser that supports WebVR, such as Mozilla Firefox. If necessary, guide them through the process of configuring the browser for WebVR compatibility.
+
+Running the VR Experience: Instruct students to run their VR scene in the web browser. They should be able to navigate and interact with the scene using their mouse or VR headset if available.
+
+Documentation: Ask students to document the steps they took to set up the WebVR project. Their documentation should include the following:
+
+a. Project Description: Describe the VR scene they created, including the 3D objects, textures, and interactions.
+
+b. Setup Process: Detail the steps taken to set up the WebVR project, including any challenges encountered and how they were resolved.
+
+c. Running the VR Experience: Explain how they ran the VR experience in the web browser, including any browser configurations or settings.
+
+Presentation: Have students prepare a brief presentation or report showcasing their VR scene, the setup process, and their overall experience. They should also demonstrate the VR experience during the presentation if possible.
+
+Submission: Students should submit their documentation, presentation materials, and any relevant project files electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your Setting Up a WebVR Project assignment will be evaluated based on the following criteria:
+
+A-Frame Usage: The correct and effective use of A-Frame to create a VR scene with 3D objects, textures, and basic interactions.
+
+WebVR Compatibility: The successful setup and running of the VR experience in a web browser that supports WebVR.
+
+Documentation: The completeness and clarity of the documentation, including project description, setup process, and any challenges encountered.
+
+Presentation: The effectiveness of the presentation or report in conveying the VR scene, setup process, and overall experience.

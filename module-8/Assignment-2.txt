@@ -1,0 +1,61 @@
+Building a WebVR Game
+
+Objective: Develop a complete WebVR game experience.
+
+Instructions:
+
+Background:
+Building interactive games in virtual reality (VR) can be an exciting and challenging endeavor. In this assignment, students will have the opportunity to develop a complete WebVR game experience. They can choose from a provided game concept or propose their own. The assignment aims to provide students with hands-on experience in designing and implementing a WebVR game, including game mechanics, user interactions, and scoring systems. Additionally, students will optimize the game for smooth performance in a web browser, ensuring a enjoyable and immersive gaming experience.
+
+Task:
+
+Game Concept Selection: Start by allowing students to choose either a provided game concept or propose their own. The game concept should be appropriate for a WebVR environment and align with the course's objectives.
+
+Game Design: Instruct students to design the VR game, including the following components:
+
+a. Game Mechanics: Define the core game mechanics and objectives. What are the rules of the game, and how does the player progress or achieve goals?
+
+b. User Interactions: Plan how users will interact with the game in VR. This may involve hand gestures, gaze-based interactions, or other VR-specific input methods.
+
+c. Scoring System: Implement a scoring system to track player performance and progress within the game. Consider how scores will be displayed in the VR environment.
+
+Game Development: Task students with implementing the VR game using A-Frame or another WebVR framework of their choice. They should create a complete VR game experience that includes:
+
+a. 3D Models: Add 3D models, textures, and animations as needed to create the game environment and game objects.
+
+b. User Interface: Design and integrate a user interface (UI) within the VR environment to display relevant game information such as scores, timers, and instructions.
+
+c. User Feedback: Implement feedback mechanisms that provide users with visual and auditory cues related to their interactions and progress in the game.
+
+d. Optimization: Optimize the game for smooth performance in a web browser. This may include optimizing graphics, physics, and resource loading to ensure a comfortable experience.
+
+Testing and Debugging: Encourage students to thoroughly test and debug their WebVR game. They should identify and resolve any issues related to gameplay, user interactions, and performance.
+
+Documentation: Ask students to create comprehensive documentation that includes the following:
+
+a. Game Description: Provide a brief description of the VR game, its objectives, and mechanics.
+
+b. Game Design: Outline the game design, including mechanics, interactions, and scoring systems.
+
+c. Development Process: Describe the development process, including the tools and frameworks used, challenges faced, and solutions implemented.
+
+d. Optimization Techniques: Explain the optimization techniques applied to ensure smooth performance in a web browser.
+
+Presentation: Have students prepare a presentation or report showcasing their VR game, the design process, development, optimization, and any interesting or unique features of the game.
+
+Submission: Students should submit their documentation, presentation materials, and the VR game project files electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your Building a WebVR Game assignment will be evaluated based on the following criteria:
+
+Game Concept: The appropriateness and creativity of the selected game concept, or the originality and viability of a proposed concept.
+
+Game Design: The clarity and depth of the game design, including mechanics, interactions, and scoring systems.
+
+Game Development: The completeness and functionality of the VR game, including 3D models, user interface, feedback mechanisms, and optimization.
+
+Testing and Debugging: The thoroughness of testing and debugging efforts, ensuring a bug-free and enjoyable gaming experience.
+
+Documentation: The completeness and clarity of the documentation, including game description, design process, development, and optimization techniques.
+
+Presentation: The effectiveness of the presentation or report in conveying the VR game, design process, development, and optimization.

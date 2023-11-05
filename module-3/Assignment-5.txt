@@ -1,0 +1,53 @@
+Unity VR Optimization
+
+Objective: Optimize a VR project in Unity for performance and user comfort.
+
+Instructions:
+
+Background:
+Optimizing virtual reality projects is crucial to ensure a smooth and comfortable user experience. In this assignment, you will provide students with a VR project that exhibits performance issues, such as low frame rates or jitters, and task them with identifying bottlenecks and optimizing the project. Students will adjust settings, simplify geometry, and utilize occlusion culling to improve performance and enhance the user experience. This assignment will help students develop essential skills in VR project optimization.
+
+Task:
+
+Performance Analysis: Choose or assign students a VR project that exhibits performance issues when used with a VR headset (e.g., Oculus Rift, HTC Vive). The project should include elements that challenge performance, such as complex geometry or large scene size.
+
+Initial Performance Metrics: Instruct students to measure and record initial performance metrics for the VR project. Metrics should include frame rate, GPU usage, and memory usage.
+
+Performance Optimization: Guide students in optimizing the VR project to improve performance and user comfort. Encourage them to perform the following tasks:
+
+a. Geometry Simplification: Identify areas where geometry can be simplified or reduced without sacrificing visual quality. Optimize 3D models, meshes, and textures as needed.
+
+b. Settings Adjustment: Review Unity settings such as rendering quality, anti-aliasing, and shadow settings. Adjust these settings to balance performance and visual quality.
+
+c. Occlusion Culling: Implement occlusion culling techniques to avoid rendering objects that are not visible to the user. Set up appropriate occlusion culling volumes or areas within the project.
+
+d. Script and Component Optimization: Review and optimize scripts and components that may be causing performance bottlenecks. This includes identifying and addressing inefficient code or resource-intensive operations.
+
+Performance Testing: After optimization, students should test the VR project again using a VR headset to assess the improvements achieved. Measure and record the same performance metrics as in step 2 to compare against the initial metrics.
+
+User Experience Enhancements: Encourage students to reflect on how their optimization efforts have enhanced the user experience. Ask them to consider factors such as smoother interactions, reduced motion sickness, or improved overall comfort.
+
+Documentation: Create a documentation file that includes the following information:
+
+a. Project Description: Describe the VR project you worked on and the performance issues it exhibited.
+
+b. Optimization Details: Explain the optimization techniques you applied, including geometry simplification, settings adjustments, occlusion culling, and script optimization.
+
+c. Performance Improvements: Report the performance improvements achieved after optimization, including frame rate increases and resource usage reductions.
+
+d. User Experience Reflection: Share your reflections on how the optimization efforts have enhanced the user experience.
+
+Presentation: Prepare a brief presentation of your VR project optimization efforts and the resulting improvements. Present your findings to the class, emphasizing the significance of VR project optimization for user comfort.
+
+Submission: Submit your documentation, presentation materials, and VR project files (if applicable) electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your Unity VR Optimization assignment will be evaluated based on the following criteria:
+
+Performance Improvement: The extent to which your optimization efforts improved the VR project's performance, including frame rate, GPU usage, and memory usage.
+
+Documentation: The completeness and clarity of your documentation, including project description, optimization details, performance improvements, and user experience reflection.
+
+Presentation: The effectiveness of your presentation in conveying the optimization process and resulting improvements to the class.
+
+User Experience Enhancement: The reflection on how optimization efforts have enhanced the user experience in terms of comfort and smoothness.

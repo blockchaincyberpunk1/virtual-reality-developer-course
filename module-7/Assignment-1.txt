@@ -1,0 +1,49 @@
+VR Application Profiling
+
+Objective: Gain proficiency in profiling VR applications for performance optimization.
+
+Instructions:
+
+Background:
+Profiling is a critical skill for virtual reality (VR) developers, as it allows for the identification of performance bottlenecks and the optimization of VR applications to deliver a smooth and immersive user experience. In this assignment, you will provide students with a VR application or scene and task them with profiling it to identify performance issues, such as high CPU or GPU usage. Students will use profiling tools to measure critical metrics, including frame rate, latency, and resource utilization. They will also be required to document their findings and propose optimization strategies based on the profiling results. This assignment will help students become proficient in VR application profiling, a crucial skill for VR development.
+
+Task:
+
+VR Application Assignment: Assign students a specific VR application or provide them with a provided VR scene. Ensure that the application or scene has potential performance bottlenecks that can be identified and addressed through profiling (e.g., a VR game, architectural visualization, or training simulation).
+
+Profiling Process: Instruct students to perform a thorough profiling of the assigned VR application. They should use profiling tools and techniques to identify performance bottlenecks. Key steps in the profiling process include:
+
+a. Frame Rate Measurement: Measure and analyze the application's frame rate (frames per second, FPS) under various conditions. Identify situations where frame rate drops occur.
+
+b. Latency Measurement: Assess and record the latency between user actions (e.g., head movements, controller inputs) and the corresponding visual or audio feedback in the VR application.
+
+c. Resource Utilization: Use profiling tools to measure CPU and GPU usage, memory consumption, and other resource utilization metrics during VR application execution.
+
+Documentation: Encourage students to create a comprehensive documentation file that includes the following information:
+
+a. VR Application Description: Describe the assigned VR application and its key features. Explain why profiling is necessary to optimize its performance.
+
+b. Profiling Process: Provide technical details of the profiling process, including the tools and techniques used, as well as the metrics collected.
+
+Performance Bottleneck Identification: Instruct students to analyze the profiling results and identify specific performance bottlenecks within the VR application. These could be related to rendering, physics calculations, audio processing, or other aspects.
+
+Optimization Strategies: Based on the identified performance bottlenecks, task students with proposing optimization strategies and solutions. These strategies may involve code optimization, asset optimization, or architectural changes to the VR application.
+
+Presentation: Prepare a brief presentation or report showcasing the VR application, profiling results, identified performance bottlenecks, and proposed optimization strategies. Discuss the potential impact of these strategies on improving user experience.
+
+Submission: Submit your documentation, presentation materials, and VR project files (if applicable) electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your VR Application Profiling assignment will be evaluated based on the following criteria:
+
+VR Application Assignment: The appropriateness of the assigned VR application for profiling and its alignment with the course's objectives.
+
+Profiling Process: The effectiveness and completeness of the profiling process, including the use of relevant tools and metrics.
+
+Documentation: The completeness and clarity of your documentation, including VR application description and technical details of the profiling process.
+
+Performance Bottleneck Identification: The ability to analyze profiling results and accurately identify specific performance bottlenecks within the VR application.
+
+Optimization Strategies: The relevance and feasibility of the proposed optimization strategies for addressing identified performance bottlenecks.
+
+Presentation: The effectiveness of your presentation or report in conveying the profiling results, performance bottlenecks, and proposed optimization strategies.

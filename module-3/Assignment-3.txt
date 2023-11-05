@@ -1,0 +1,49 @@
+Unreal Engine VR Setup
+
+Objective: Explore VR development in Unreal Engine and set up a VR environment.
+
+Instructions:
+
+Background:
+Unreal Engine is a powerful platform for virtual reality development, and gaining familiarity with it is crucial for virtual reality developers. In this assignment, you will guide students to create a new project in Unreal Engine with VR support for headsets like Oculus Rift or HTC Vive. They will build a VR environment, including at least one interactive object or element. Additionally, they will test their VR experience using the selected VR headset and provide a video walkthrough. This assignment will help students develop essential skills in Unreal Engine VR development.
+
+Task:
+
+Select VR Headset: Choose one of the following VR headsets for your assignment: Oculus Rift or HTC Vive. Ensure that you have the necessary hardware and software installed to develop for the chosen headset.
+
+Create Unreal Engine Project: Create a new project in Unreal Engine with VR support for the selected VR headset. Ensure that the project is correctly configured for VR development.
+
+VR Environment Setup: Design and build a VR environment within Unreal Engine. The environment should include:
+
+a. VR World: Create a 3D world or scenario that is suitable for VR exploration. It could be a room, a landscape, or any other environment that aligns with your project concept.
+
+b. Interactive Object/Element: Add at least one interactive object or element within the VR environment. This could be an object that users can pick up, manipulate, or interact with in some way.
+
+VR Testing: Test the VR experience within Unreal Engine using the selected VR headset (Oculus Rift or HTC Vive). Ensure that the VR environment is functioning as intended, and users can interact with the designated object or element.
+
+Video Walkthrough: Capture a video walkthrough of your VR experience. Record yourself using the VR headset and interacting with the environment. Provide a narration or commentary to explain the VR experience and any interactive elements.
+
+Documentation: Create a documentation file that includes the following information:
+
+a. VR Headset Selection: Mention the VR headset you chose to work with (Oculus Rift or HTC Vive) and explain your reasons for selecting it.
+
+b. Unreal Engine Project Details: Describe your Unreal Engine project settings, including any specific VR-related configurations.
+
+c. VR Environment Description: Explain the VR environment you created, its purpose, and any specific design choices you made.
+
+Presentation: Prepare a brief presentation of your VR experience and video walkthrough. Present your VR project to the class, showcasing the interactive elements and user experience.
+
+Submission: Submit your documentation, presentation materials, and video walkthrough electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your Unreal Engine VR Setup assignment will be evaluated based on the following criteria:
+
+Project Setup: The correctness and completeness of your Unreal Engine project setup for VR development.
+
+VR Environment: The quality of the VR environment you created, including design and interactivity.
+
+Video Walkthrough: The effectiveness of your video walkthrough in demonstrating the VR experience and interactive elements.
+
+Documentation: The completeness and clarity of your documentation, including VR headset selection, project details, and environment description.
+
+Presentation: The effectiveness of your presentation in conveying the VR experience to the class.

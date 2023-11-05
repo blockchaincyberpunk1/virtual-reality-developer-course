@@ -1,0 +1,49 @@
+VR Object Interactions
+
+Objective: Implement interactive object manipulation in VR.
+
+Instructions:
+
+Background:
+Interactive object manipulation is a fundamental aspect of creating engaging and immersive virtual reality (VR) experiences. In this assignment, you will assign students a VR scenario where users interact with objects, such as a virtual kitchen, laboratory, or art gallery. Their task is to develop interactive mechanics that allow users to pick up, rotate, and place objects within the VR environment. Students should prioritize user feedback and comfort while implementing these interactions. This assignment will help students gain practical experience in implementing object interactions in VR.
+
+Task:
+
+VR Scenario Selection: Assign students a specific VR scenario where object interactions are integral to the experience. Ensure that the scenario is suitable for object manipulation and aligns with the course's objectives (e.g., a virtual kitchen for cooking simulations, a laboratory for experiments, or an art gallery for curating artwork).
+
+Interactive Object Mechanics: Instruct students to design and implement interactive mechanics that enable users to interact with objects within the VR environment. The mechanics should include:
+
+a. Picking Up Objects: Allow users to pick up objects using VR controllers or gestures. Ensure that the interaction is intuitive and responsive.
+
+b. Object Rotation: Enable users to rotate objects they are holding. Implement controls or gestures that allow for precise rotation.
+
+c. Placing Objects: Allow users to place objects in specified locations or surfaces within the VR scenario. Ensure that object placement is accurate and natural.
+
+User Comfort and Feedback: Emphasize the importance of user comfort and feedback during object interactions. Instruct students to consider factors such as motion sickness, hand tracking accuracy, and haptic feedback (if available) to enhance the user experience.
+
+Documentation: Ask students to create a documentation file that includes the following information:
+
+a. Scenario Description: Describe the VR scenario assigned and explain how object interactions enhance the user experience within that scenario.
+
+b. Interactive Object Mechanics: Provide technical details on how the interactive object mechanics were implemented, including any scripts, controllers, or hand tracking techniques used.
+
+c. User Comfort and Feedback: Summarize considerations for user comfort during object interactions and any adjustments made based on user feedback.
+
+Usability Testing: Encourage students to conduct usability testing sessions with peers or individuals to gather feedback on the object interactions. Students should take note of user reactions, feedback, and suggestions for improvements.
+
+Presentation: Prepare a brief presentation or demonstration of the VR scenario, showcasing the implemented object interactions and discussing the impact of user feedback on the project's quality.
+
+Submission: Submit your documentation, presentation materials, and VR project files (if applicable) electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your VR Object Interactions assignment will be evaluated based on the following criteria:
+
+Scenario Selection: The suitability of the selected VR scenario for object interactions and its alignment with the course's objectives.
+
+Interactive Object Mechanics: The effectiveness and responsiveness of the implemented object interaction mechanics, including picking up, rotating, and placing objects.
+
+Documentation: The completeness and clarity of your documentation, including scenario description, technical implementation details, and considerations for user comfort and feedback.
+
+Usability Testing: The incorporation of user feedback and insights into the object interaction mechanics and its impact on the final design.
+
+Presentation: The effectiveness of your presentation in conveying the VR scenario, showcasing the object interactions, and discussing the impact of user feedback.

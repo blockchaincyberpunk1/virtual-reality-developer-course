@@ -1,0 +1,63 @@
+VR Locomotion Mechanisms
+
+Objective: Explore different locomotion methods in VR.
+
+Instructions:
+
+Background:
+Locomotion is a crucial aspect of virtual reality (VR) experiences, and the choice of locomotion method can significantly impact user comfort and immersion. In this assignment, you will assign students the task of developing a VR application that incorporates multiple locomotion options, such as teleportation, smooth movement, or room-scale tracking. Students will implement each locomotion method and allow users to switch between them, enabling exploration and comparison of their advantages and disadvantages. This assignment will help students gain practical experience in VR locomotion design and analysis.
+
+Task:
+
+VR Application Development: Assign students to develop a VR application or scenario that supports multiple locomotion methods. Ensure that the application or scenario is suitable for testing various locomotion mechanisms and aligns with the course's objectives (e.g., a VR game, virtual exploration environment, or training simulation).
+
+Locomotion Implementation: Instruct students to implement at least three different locomotion methods within the VR application. Examples of locomotion methods include:
+
+a. Teleportation: Users can teleport to specified locations within the VR environment using VR controllers or gestures.
+
+b. Smooth Movement: Users can navigate the VR environment with continuous, smooth movement (e.g., joystick-based or thumbstick-based locomotion).
+
+c. Room-Scale Tracking: Users can move within the VR environment by physically walking or using room-scale tracking (if available).
+
+User Interface for Locomotion Selection: Task students with creating a user interface (UI) that allows users to switch between the implemented locomotion methods easily. This UI should be accessible within the VR environment.
+
+Analysis of Locomotion Methods: Encourage students to thoroughly analyze the pros and cons of each locomotion method, considering factors such as:
+
+a. Comfort: Evaluate the comfort level of each locomotion method and potential motion sickness concerns.
+
+b. Immersion: Assess the level of user immersion and presence achieved with each locomotion method.
+
+c. Usability: Analyze the ease of use and intuitiveness of each method from the user's perspective.
+
+d. Applicability: Discuss the suitability of each locomotion method for different VR scenarios (e.g., gaming, training, exploration).
+
+Documentation: Ask students to create a comprehensive documentation file that includes the following information:
+
+a. VR Application Description: Describe the VR application or scenario assigned and explain how multiple locomotion methods enhance the user experience within that context.
+
+b. Locomotion Implementation: Provide technical details on how each locomotion method was designed and implemented, including any scripts, controllers, or UI elements used.
+
+c. Analysis of Locomotion Methods: Summarize the findings and analysis of the pros and cons of each locomotion method, including comfort, immersion, usability, and applicability.
+
+Usability Testing: Encourage students to conduct usability testing sessions with peers or individuals to gather feedback on the locomotion methods. Students should take note of user reactions, preferences, and suggestions for improvements.
+
+Recommendations: Instruct students to provide recommendations based on their analysis and user feedback regarding which locomotion methods are suitable for different VR scenarios and user preferences.
+
+Presentation: Prepare a brief presentation or demonstration of the VR application, showcasing the implemented locomotion methods and discussing the findings, analysis, and recommendations.
+
+Submission: Submit your documentation, presentation materials, and VR project files (if applicable) electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your VR Locomotion Mechanisms assignment will be evaluated based on the following criteria:
+
+VR Application Development: The appropriateness of the VR application or scenario for testing multiple locomotion methods and its alignment with the course's objectives.
+
+Locomotion Implementation: The effectiveness and responsiveness of implementing at least three different locomotion methods within the VR application.
+
+User Interface: The usability and accessibility of the user interface for selecting and switching between locomotion methods within the VR environment.
+
+Documentation: The completeness and clarity of your documentation, including VR application description, technical implementation details, and analysis of locomotion methods.
+
+Usability Testing and Feedback: The incorporation of user feedback and insights into the locomotion methods and its impact on the final analysis and recommendations.
+
+Presentation: The effectiveness of your presentation in conveying the VR application, showcasing the locomotion methods, and discussing the findings and recommendations.

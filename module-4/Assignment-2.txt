@@ -1,0 +1,53 @@
+VR Gesture-based Interaction
+
+Objective: Develop gesture-based interactions in VR.
+
+Instructions:
+
+Background:
+Gesture-based interactions in virtual reality offer an immersive and intuitive way for users to interact with virtual objects and environments. In this assignment, you will instruct students to create a VR application or scene in which users can interact with virtual objects using hand gestures. They will implement gesture recognition and map these gestures to specific actions, such as grabbing, rotating, or resizing objects. This assignment will help students gain practical experience in designing and developing gesture-based interactions for VR.
+
+Task:
+
+VR Application/Scene: Instruct students to create a VR application or scene using a VR development platform of their choice (e.g., Unity3D with Oculus or SteamVR integration).
+
+Gesture-based Interaction: Guide students in implementing gesture-based interactions using hand tracking or hand controllers. Provide instructions on how to recognize specific gestures (e.g., pinch, swipe, circle) and map them to actions within the VR environment. Students should consider common VR interaction patterns, such as grabbing, rotating, and resizing objects.
+
+Virtual Objects: Task students with placing virtual objects within the VR environment that users can interact with using gestures. These objects could be 3D models, UI elements, or any interactive elements relevant to their VR application or scenario.
+
+Gesture Mapping: Instruct students to define clear mappings between gestures and actions. For example:
+
+a. Grabbing: How will users perform the grabbing action? What gesture represents grabbing, and how does it affect virtual objects?
+
+b. Rotating: How can users rotate objects using gestures? What gestures will trigger object rotation, and how will it be controlled?
+
+c. Resizing: Implement gestures for resizing objects. Specify how users can resize objects and what gestures are used.
+
+User Experience: Encourage students to focus on creating an intuitive and enjoyable user experience. Consider aspects such as gesture responsiveness, feedback, and ease of use.
+
+Documentation: Ask students to create a documentation file that includes the following information:
+
+a. Application/Scene Description: Describe the VR application or scene, including its purpose and context.
+
+b. Gesture Implementation: Explain how gesture recognition and mapping were implemented within the VR environment.
+
+c. Virtual Objects: Provide details about the virtual objects present in the VR environment and their interaction possibilities.
+
+d. User Experience Reflection: Reflect on the user experience of the gesture-based interactions. Discuss any challenges faced during development and how they were addressed.
+
+Presentation: Prepare a brief presentation or demonstration of the VR application or scene showcasing gesture-based interactions. Present your project to the class, emphasizing the effectiveness of the gesture recognition and interaction design.
+
+Submission: Submit your documentation, presentation materials, and VR project files (if applicable) electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your VR Gesture-based Interaction assignment will be evaluated based on the following criteria:
+
+Gesture Implementation: The effectiveness of implementing gesture recognition and mapping gestures to actions within the VR environment.
+
+Virtual Objects: The quality and relevance of the virtual objects present in the VR environment and their interaction possibilities.
+
+User Experience: The overall user experience of the gesture-based interactions, including responsiveness, feedback, and intuitiveness.
+
+Documentation: The completeness and clarity of your documentation, including application/scene description, gesture implementation details, virtual objects, and user experience reflection.
+
+Presentation: The effectiveness of your presentation in conveying the capabilities and user experience of the gesture-based interactions.

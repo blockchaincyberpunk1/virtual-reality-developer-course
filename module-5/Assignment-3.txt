@@ -1,0 +1,49 @@
+VR Teleportation System
+
+Objective: Create a teleportation mechanic for VR navigation.
+
+Instructions:
+
+Background:
+Navigation is a critical aspect of virtual reality (VR) experiences, and implementing a comfortable and intuitive navigation system is essential. In this assignment, you will provide students with a VR application that lacks a navigation system. Their task is to design and implement a teleportation system that allows users to move within the VR environment seamlessly. Students should prioritize comfort, user experience, and ease of use in their teleportation design. This assignment will help students develop practical skills in VR navigation design and implementation.
+
+Task:
+
+VR Application Selection: Assign students a specific VR application or scenario that lacks a navigation system. Ensure that the chosen application or scenario is suitable for teleportation-based navigation and aligns with the course's objectives (e.g., an exploration game, architectural visualization, or virtual museum).
+
+Teleportation System Implementation: Instruct students to design and implement a teleportation system that enables users to move within the VR environment. The teleportation system should include:
+
+a. Teleportation Mechanic: Define and implement the teleportation mechanic. This may involve using VR controllers to select a teleportation destination and executing the teleportation.
+
+b. Visual Feedback: Provide visual feedback to users during the teleportation process. This may include creating a teleportation arc or pointer to indicate the destination point and path.
+
+c. Comfort Considerations: Emphasize the importance of comfort in teleportation design. Instruct students to consider factors such as motion sickness, teleportation speed, and the visual effects used during teleportation.
+
+User Testing and Feedback: Encourage students to conduct usability testing sessions with peers or individuals to gather feedback on the teleportation system. Students should take note of user reactions, feedback, and suggestions for improvements.
+
+Documentation: Ask students to create a documentation file that includes the following information:
+
+a. VR Application Description: Describe the VR application or scenario assigned and explain how teleportation enhances the user experience within that context.
+
+b. Teleportation System Implementation: Provide technical details on how the teleportation system was designed and implemented, including any scripts, controllers, or visual effects used.
+
+c. Comfort and User Feedback: Summarize considerations for user comfort during teleportation and any adjustments made based on user feedback.
+
+Usability Testing Results: Present the results of usability testing sessions, including participant feedback, observations, and identified areas for improvement in the teleportation system.
+
+Presentation: Prepare a brief presentation or demonstration of the VR application, showcasing the implemented teleportation system and discussing the impact of user feedback on the project's quality.
+
+Submission: Submit your documentation, presentation materials, and VR project files (if applicable) electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your VR Teleportation System assignment will be evaluated based on the following criteria:
+
+VR Application Selection: The suitability of the assigned VR application or scenario for teleportation-based navigation and its alignment with the course's objectives.
+
+Teleportation System Implementation: The effectiveness and responsiveness of the implemented teleportation system, including the teleportation mechanic, visual feedback, and comfort considerations.
+
+Documentation: The completeness and clarity of your documentation, including VR application description, technical implementation details, and considerations for user comfort and feedback.
+
+Usability Testing and Feedback: The incorporation of user feedback and insights into the teleportation system and its impact on the final design.
+
+Presentation: The effectiveness of your presentation in conveying the VR application, showcasing the teleportation system, and discussing the impact of user feedback.
